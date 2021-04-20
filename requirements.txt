@@ -30,7 +30,7 @@ mysqlclient==1.4.4
 pathlib2==2.3.3
 pbr==5.4.2
 pluggy==0.8.0
-py==1.7.0
+py==1.10.0
 pycrypto==2.6.1
 pygobject==3.26.1
 pyOpenSSL==17.5.0
